@@ -8,7 +8,6 @@ You can use the code found in [DeepCell](https://deepcell.cf) as you wish, gener
 
 The following includes a list of software developed by DeepCell and other since 1998, some are very old stuffs, others are piece of uselless shit, some are nice piece of work, here you will find an eclectic variety of open source code that can be useful for personal or professional use.
 
-```markdown
 I will mark all the repositories with an [A] and [D] where [A] extends for ACTIVE and [D] for DEFUNCT.
 
 - [Food Ordering System](https://github.com/deepcell/Food-Ordering-System) [A]
@@ -21,7 +20,7 @@ I will mark all the repositories with an [A] and [D] where [A] extends for ACTIV
 
 ### Support or Contact
 
-Having trouble some code? DeepCell provide paid consultance, please [contact me](https://deepcell.cf/contact) and we’ll help you sort it out.
+Having trouble with some code? DeepCell provide paid consultancy, please [contact me](mail:deepcell@gmail.com) and I’ll help you sort it out.
 
 ### For Donations:
 - Bitcoin: `39fNfmdJEL77CLuYXe3WzTgeYbF346LE9i`
