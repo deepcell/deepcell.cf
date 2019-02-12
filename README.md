@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to DeepCell
 
-You can use the [editor on GitHub](https://github.com/deepcell/deepcell.cf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+DeepCell in a few words, it is a hub of code, open source code.
+You can use the code found in [DeepCell](https://deepcell.cf) as you wish, generally DeepCell try to adhere to GNU Public License v2 unless it is explictly stated otherwise.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Software
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following includes a list of software developed by DeepCell and other since 1998, some are very old stuffs, others are piece of uselless shit, some are nice piece of work, here you will find an eclectic variety of open source code that can be useful for personal or professional use.
 
 ```markdown
-Syntax highlighted code block
+I will mark all the repositories with an [A] and [D] where [A] extends for ACTIVE and [D] for DEFUNCT.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deepcell/deepcell.cf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Food Ordering System](https://github.com/deepcell/Food-Ordering-System) [A]
+- [synnet](https://github.com/deepcell/synnet) [A] more info: https://synnet.tk
+- [Nota Fiscal de Serviço de Comunicação, modelo 21.](https://github.com/deepcell/Nfsc21) [A]
+- [Mikrotik](https://github.com/deepcell/Mikrotik) [A]
+- [prometheuz](https://github.com/deepcell/prometheuz) [A] more info: http://prometheus.gq
+- [wordpress stuffs](https://github.com/deepcell/wordpress-stuff) [A] This repo try to demonstrate how to integrate your wordpress with 3rd party system in the most simple and effective way.
+- [DMT - Dead Man's Trigger](https://github.com/deepcell/DMT) [D]
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble some code? DeepCell provide paid consultance, please [contact me](https://deepcell.cf/contact) and we’ll help you sort it out.
+
+### For Donations:
+- Bitcoin: `39fNfmdJEL77CLuYXe3WzTgeYbF346LE9i`
+- Dogecoin: `DP6jE9QfJYDnW9fLp6YWdzudo6TKLYbUnU`
+- Litecoin: `LL5DKT63SQngT2j1az8EV7fpikgAxMTbqk`
+- Zcash: `t1Ma3hV7mNMR3Npp8eGeZzq1G2amdpAPuxg`
+- Monero: `4828JWzwtXtMYesdzsGv3WEgFobS9VPTyd6rpo86eMrCa9P7A8RXcKjHDoEjhHFRW27tAZMd7ks2dW76wnxsZs6DNmmBQue`
+- Zcoin: `a32UsRrGM5q9m6g8D4z9AtDPLCEoJxAdHw`
+- PayPal email: `deepcell@gmail.com`
