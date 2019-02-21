@@ -54,6 +54,6 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 
 
 
-< script src="https://code.jquery.com/jquery-3.2.1.min.js" \ ></script \ >
-< script src="/exchange-table.js" \ ></script \ >
-<div id="show-data"></div>
+<script src='https://code.jquery.com/jquery-3.2.1.min.js'\></script\>
+<script src='/exchange-table.js'\></script\>
+<div id='show-data'></div>
