@@ -18,15 +18,36 @@ I will mark all the repositories with an [A] and [D] where [A] extends for ACTIV
 - [wordpress stuffs](https://github.com/deepcell/wordpress-stuff) [A] This repo try to demonstrate how to integrate your wordpress with 3rd party system in the most simple and effective way.
 - [DMT - Dead Man's Trigger](https://github.com/deepcell/DMT) [D]
 
+
 ### Support or Contact
 
 Having trouble with some code? DeepCell provide paid consultancy, please [contact me](mail:deepcell@gmail.com) and I’ll help you sort it out.
 
-### For Donations:
+
+### Accepted Payment in:
+
+|Ticker|Value(USD)|Handling|
+|---|---|---|
+|XAU - Gold (troy ounce)|0.00|Personal|
+|XAG - Silver (troy ounce)|0.00|Personal|
+|DIA - Diamond Carat|8000.00 carat|Personal|
+|BTC - Bitcoin|0.00|Electronic|
+|DOGE - Dogecoin|0.00|Electronic|
+|DASH - Dash|0.00|Electronic|
+|ZEC - Zcash|0.00|Electronic|
+|XZC - Zcoin|0.00|Electronic|
+|XMR - Monero|0.00|Electronic|
+|LTC - Litecoin|0.00|Electronic|
+|USD - American Dollar|1.00|Electronic|
+|BRL - Brazilian Real|0.00|Electronic|
+|THB - Thai Baht|0.00|Electronic|
+
 - Bitcoin: `39fNfmdJEL77CLuYXe3WzTgeYbF346LE9i`
 - Dogecoin: `DP6jE9QfJYDnW9fLp6YWdzudo6TKLYbUnU`
 - Litecoin: `LL5DKT63SQngT2j1az8EV7fpikgAxMTbqk`
 - Zcash: `t1Ma3hV7mNMR3Npp8eGeZzq1G2amdpAPuxg`
 - Monero: `4828JWzwtXtMYesdzsGv3WEgFobS9VPTyd6rpo86eMrCa9P7A8RXcKjHDoEjhHFRW27tAZMd7ks2dW76wnxsZs6DNmmBQue`
 - Zcoin: `a32UsRrGM5q9m6g8D4z9AtDPLCEoJxAdHw`
+- Dash: ``
+- Dogecoin: ``
 - PayPal email: `deepcell@gmail.com`
