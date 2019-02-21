@@ -26,7 +26,7 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 
 ### Accepted Payment in:
 
-|Ticker|Value(USD)|Handling|
+|Ticker|Rate(USD)|Handling|
 |---|---|---|
 |XAU - Gold (troy ounce)|0.00|Personal|
 |XAG - Silver (troy ounce)|0.00|Personal|
