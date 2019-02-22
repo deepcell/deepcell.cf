@@ -73,43 +73,43 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 			<div class="divTableCell">USD</div>
 			<div class="divTableCell" id="show-data-usd"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">American Dollar</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">THB</div>
 			<div class="divTableCell" id="show-data-thb"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">Thai Baht</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">BRL</div>
 			<div class="divTableCell" id="show-data-brl"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">Brazilian Real</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">LTC</div>
 			<div class="divTableCell" id="show-data-ltc"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">Litecoin</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">XMR</div>
 			<div class="divTableCell" id="show-data-xmr"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">Monero</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">XZC</div>
 			<div class="divTableCell" id="show-data-xzc"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">Zcoin</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">ZEC</div>
 			<div class="divTableCell" id="show-data-zec"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">Zcash</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">DASH</div>
@@ -121,7 +121,7 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 			<div class="divTableCell">DOGE</div>
 			<div class="divTableCell" id="show-data-doge"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">Dogecoin</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">BTC</div>
@@ -133,17 +133,17 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 			<div class="divTableCell">XAG</div>
 			<div class="divTableCell" id="show-data-xag"></div>
 			<div class="divTableCell">In Person</div>
-			<div class="divTableCell"><small>Silver ounce</small></div>
+			<div class="divTableCell"><small>Silver troy ounce</small></div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">XAU</div>
 			<div class="divTableCell" id="show-data-xau"></div>
 			<div class="divTableCell">In Person</div>
-			<div class="divTableCell"><small>Gold ounce</small></div>
+			<div class="divTableCell"><small>Gold troy ounce</small></div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">DIA</div>
-			<div class="divTableCell" id="show-data-dia"></div>
+			<div class="divTableCell" id="show-data-dia">0.000125</div>
 			<div class="divTableCell">In Person</div>
 			<div class="divTableCell"><small>Diamond carat</small></div>
 		</div>
@@ -151,23 +151,21 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 </div>
 
 
-[//]: # "
-|Ticker|Rate(USD)|Handling|
-|---|---|---|
-|XAU - Gold (troy ounce)|0.00|Personal|
-|XAG - Silver (troy ounce)|0.00|Personal|
-|DIA - Diamond Carat|8000.00 carat|Personal|
-|BTC - Bitcoin|0.00|Electronic|
-|DOGE - Dogecoin|0.00|Electronic|
-|DASH - Dash|0.00|Electronic|
-|ZEC - Zcash|0.00|Electronic|
-|XZC - Zcoin|0.00|Electronic|
-|XMR - Monero|0.00|Electronic|
-|LTC - Litecoin|0.00|Electronic|
-|USD - American Dollar|1.00|Electronic|
-|BRL - Brazilian Real|0.00|Electronic|
-|THB - Thai Baht|0.00|Electronic|
-"
+[//]: # "|Ticker|Rate(USD)|Handling|"
+[//]: # "|---|---|---|"
+[//]: # "|XAU - Gold (troy ounce)|0.00|Personal|"
+[//]: # "|XAG - Silver (troy ounce)|0.00|Personal|"
+[//]: # "|DIA - Diamond Carat|8000.00 carat|Personal|"
+[//]: # "|BTC - Bitcoin|0.00|Electronic|"
+[//]: # "|DOGE - Dogecoin|0.00|Electronic|"
+[//]: # "|DASH - Dash|0.00|Electronic|"
+[//]: # "|ZEC - Zcash|0.00|Electronic|"
+[//]: # "|XZC - Zcoin|0.00|Electronic|"
+[//]: # "|XMR - Monero|0.00|Electronic|"
+[//]: # "|LTC - Litecoin|0.00|Electronic|"
+[//]: # "|USD - American Dollar|1.00|Electronic|"
+[//]: # "|BRL - Brazilian Real|0.00|Electronic|"
+[//]: # "|THB - Thai Baht|0.00|Electronic|"
 
 
 - Bitcoin: `39fNfmdJEL77CLuYXe3WzTgeYbF346LE9i`
