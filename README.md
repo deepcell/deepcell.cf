@@ -155,5 +155,10 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 			<div class="divTableCell" id="show-data-xau"></div>
 			<div class="divTableCell"><small>ounce</small></div>
 		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">DIA</div>
+			<div class="divTableCell" id="show-data-dia"></div>
+			<div class="divTableCell"><small>Diamond carat</small></div>
+		</div>
 	</div>
 </div>
