@@ -148,7 +148,7 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 			<div class="divTableCell"><small>Diamond carat</small></div>
 		</div>
 	</div>
-</div>
+</div><br />
 
 
 
