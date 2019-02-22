@@ -151,22 +151,6 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 </div>
 
 
-[//]: # "|Ticker|Rate(USD)|Handling|"
-[//]: # "|---|---|---|"
-[//]: # "|XAU - Gold (troy ounce)|0.00|Personal|"
-[//]: # "|XAG - Silver (troy ounce)|0.00|Personal|"
-[//]: # "|DIA - Diamond Carat|8000.00 carat|Personal|"
-[//]: # "|BTC - Bitcoin|0.00|Electronic|"
-[//]: # "|DOGE - Dogecoin|0.00|Electronic|"
-[//]: # "|DASH - Dash|0.00|Electronic|"
-[//]: # "|ZEC - Zcash|0.00|Electronic|"
-[//]: # "|XZC - Zcoin|0.00|Electronic|"
-[//]: # "|XMR - Monero|0.00|Electronic|"
-[//]: # "|LTC - Litecoin|0.00|Electronic|"
-[//]: # "|USD - American Dollar|1.00|Electronic|"
-[//]: # "|BRL - Brazilian Real|0.00|Electronic|"
-[//]: # "|THB - Thai Baht|0.00|Electronic|"
-
 
 - Bitcoin: `39fNfmdJEL77CLuYXe3WzTgeYbF346LE9i`
 - Dogecoin: `DP6jE9QfJYDnW9fLp6YWdzudo6TKLYbUnU`
