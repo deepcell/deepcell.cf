@@ -28,7 +28,7 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 
 |Ticker|Rate(USD)|Handling|
 |---|---|---|
-|XAU - Gold (troy ounce)|0.00|Personal|
+|XAU - Gold (troy ounce)|<div id="show-data-xau"></div>|Personal|
 |XAG - Silver (troy ounce)|0.00|Personal|
 |DIA - Diamond Carat|8000.00 carat|Personal|
 |BTC - Bitcoin|0.00|Electronic|
