@@ -55,4 +55,73 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 
 <script src="{{ 'https://code.jquery.com/jquery-3.2.1.min.js' }}"></script>
 <script src="{{ '/exchange-table.js' }}"></script>
-<div id="show-data"></div>
+
+<div class="divTable">
+	<div class="divTableBody">
+		<div class="divTableRow">
+			<div class="divTableCell"><b>ticker</b></div>
+			<div class="divTableCell"><b>rate</b></div>
+			<div class="divTableCell"><b>obs</b></div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">USD</div>
+			<div class="divTableCell" id="show-data-usd"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">THB</div>
+			<div class="divTableCell" id="show-data-thb"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">BRL</div>
+			<div class="divTableCell" id="show-data-brl"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">LTC</div>
+			<div class="divTableCell" id="show-data-ltc"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">XMR</div>
+			<div class="divTableCell" id="show-data-xmr"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">XZC</div>
+			<div class="divTableCell" id="show-data-xzc"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">ZEC</div>
+			<div class="divTableCell" id="show-data-zec"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">DASH</div>
+			<div class="divTableCell" id="show-data-dash"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">DOGE</div>
+			<div class="divTableCell" id="show-data-doge"> </div>
+			<div class="divTableCell"> </div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">BTC</div>
+			<div class="divTableCell" id="show-data-btc"></div>
+			<div class="divTableCell"></div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">XAG</div>
+			<div class="divTableCell" id="show-data-xag"></div>
+			<div class="divTableCell"><small>ounce</small></div>
+		</div>
+		<div class="divTableRow">
+			<div class="divTableCell">XAU</div>
+			<div class="divTableCell" id="show-data-xau"></div>
+			<div class="divTableCell"><small>ounce</small></div>
+		</div>
+	</div>
+</div>
