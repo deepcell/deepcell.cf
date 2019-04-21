@@ -115,7 +115,7 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 			<div class="divTableCell">DASH</div>
 			<div class="divTableCell" id="show-data-dash"> </div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"> </div>
+			<div class="divTableCell">DASH</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">DOGE</div>
@@ -127,7 +127,7 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 			<div class="divTableCell">BTC</div>
 			<div class="divTableCell" id="show-data-btc"></div>
 			<div class="divTableCell">Online</div>
-			<div class="divTableCell"></div>
+			<div class="divTableCell">Bitcoin</div>
 		</div>
 		<div class="divTableRow">
 			<div class="divTableCell">XAG</div>
@@ -158,6 +158,6 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 - Zcash: `t1Ma3hV7mNMR3Npp8eGeZzq1G2amdpAPuxg`
 - Monero: `4828JWzwtXtMYesdzsGv3WEgFobS9VPTyd6rpo86eMrCa9P7A8RXcKjHDoEjhHFRW27tAZMd7ks2dW76wnxsZs6DNmmBQue`
 - Zcoin: `a32UsRrGM5q9m6g8D4z9AtDPLCEoJxAdHw`
-- Dash: ``
-- Dogecoin: ``
+- Dash: `Xi3LMbuDGXdJVLkA1Asx8Ea5vMGBzyqAe2`
+- Dogecoin: `DLJAu6u7g4BB73qfnxeG6HA6JmB8SsWTJx`
 - PayPal email: `deepcell@gmail.com`
