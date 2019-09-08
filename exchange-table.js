@@ -6,6 +6,8 @@ $().ready(function() {
 		$("#show-data-xau").html(data.rates.XAU);
 		$("#show-data-xag").html(data.rates.XAG);
 		$("#show-data-btc").html(data.rates.BTC);
+		$("#show-data-bch").html(data.rates.BCH);
+		$("#show-data-nmc").html(data.rates.NMC);
 		$("#show-data-doge").html(data.rates.DOGE);
 		$("#show-data-dash").html(data.rates.DASH);
 		$("#show-data-zec").html(data.rates.ZEC);
