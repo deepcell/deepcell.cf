@@ -144,6 +144,12 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 			<div class="divTableCell">Monero</div>
 		</div>
 		<div class="divTableRow">
+			<div class="divTableCell">NMC</div>
+			<div class="divTableCell" id="show-data-nmc"></div>
+			<div class="divTableCell">Online</div>
+			<div class="divTableCell">Namecoin</div>
+		</div>
+		<div class="divTableRow">
 			<div class="divTableCell">XAG</div>
 			<div class="divTableCell" id="show-data-xag"></div>
 			<div class="divTableCell">In Person</div>
@@ -170,5 +176,6 @@ Having trouble with some code? DeepCell provide paid consultancy, please [contac
 
 - Bitcoin: `1CXFCPxLHCjfeBTDZ7mNjjstgC5n5KJKK1`
 - BitcoinCash: `bitcoincash:qpx4uw8vrnf2npa5hlr92j02hwg5c2z5yvpnqsagaf`
+- Namecoin: `N4ffuHdSVqbGv8jQf2G9A2bLLRxKcACygR`
 - Monero: `4828JWzwtXtMYesdzsGv3WEgFobS9VPTyd6rpo86eMrCa9P7A8RXcKjHDoEjhHFRW27tAZMd7ks2dW76wnxsZs6DNmmBQue`
 - PayPal email: `deepcell@gmail.com`
