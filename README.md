@@ -21,7 +21,7 @@ I will mark all the repositories with an [A] and [D] where [A] extends for ACTIV
 
 ### Support or Contact
 
-Having trouble with some code? I provide paid consultancy, please via [email](mail:deepcell@gmail.com) or tox: `FFC999841B1D7926C1198EE19AC2CAAB3F500F0121C2CD60AD679A522DC504019841CA1F8BBB` and I’ll help you sort it out.
+Having trouble with some code? I provide paid consultancy, please contact me via [email](mail:deepcell@gmail.com) or tox: `FFC999841B1D7926C1198EE19AC2CAAB3F500F0121C2CD60AD679A522DC504019841CA1F8BBB` and I’ll help you sort it out.
 
 
 ### Accepted Payment in:
